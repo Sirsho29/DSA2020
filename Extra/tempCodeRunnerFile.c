@@ -1,1 +1,0 @@
-inorder(root1->right, root2->right);
