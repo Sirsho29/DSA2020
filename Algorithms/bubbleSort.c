@@ -40,7 +40,7 @@ void printArray(int *arr, int size)
 
 int main()
 {
-    int arr[7] = {64, 34, 25, 12, 22, 11, 90};
+    int arr[7] = {6,4,3,5,7,1,2};
     int n = 7;
     bubbleSort(arr, n);
     printArray(arr, n);

@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "concepts": "c",
+        "exception": "c",
+        "ios": "c",
+        "istream": "c",
+        "memory": "c",
+        "ostream": "c",
+        "streambuf": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "xiosbase": "c",
+        "xmemory": "c",
+        "xstring": "c",
+        "xutility": "c"
+    }
+}

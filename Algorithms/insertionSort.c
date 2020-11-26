@@ -1,7 +1,5 @@
 //Insertion Sort
 //Complexity : O(n^2)
-
-
 #include <stdio.h>
 
 void insertionSort(int *arr, int n)
